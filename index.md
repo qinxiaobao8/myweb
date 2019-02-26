@@ -1,6 +1,5 @@
-##欢迎使用GitHub Pages
-这算是、
-您可以使用[GitHub上的编辑器] （https://github.com/qinxiaobao8/myweb/edit/master/index.md）在Markdown文件中维护和预览您网站的内容。
+我的第一个web网页
+（https://github.com/qinxiaobao8/myweb/edit/master/index.md）在Markdown文件中维护和预览您网站的内容。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
